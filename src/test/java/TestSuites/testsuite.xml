@@ -1,0 +1,8 @@
+<suite name="testsuite">
+    <test name="test with and without data providers">
+        <classes>
+            <class name="TestClasses.testAddNewPayeeWithoutDataProvider"/>
+            <class name="TestClasses.testAddNewPAyeeWithDataProvider"/>
+        </classes>
+    </test>
+</suite>
